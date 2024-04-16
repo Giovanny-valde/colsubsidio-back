@@ -19,9 +19,10 @@
 
 ## Instalacion y uso
 
-1. Navega al directorio del proyecto
-2. Inicia la aplicación: `mvnw spring-boot:run`
-3. La URL base para consumir los servicios esta alojada en : `http://localhost:8080` (mas el path del servicio que desea consumir que estan expuestos en el paquete de controladores)
+1. Clona este repositorio con 'git clone https://github.com/Giovanny-valde/colsubsidio-back.git'
+2. Navega al directorio del proyecto
+3. Inicia la aplicación: `mvnw spring-boot:run`
+4. La URL base para consumir los servicios esta alojada en : `http://localhost:8080` (mas el path del servicio que desea consumir que estan expuestos en el paquete de controladores)
 
 ## Estructura del proyecto
 
